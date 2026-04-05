@@ -67,7 +67,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibdevs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibdevs" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=vaibdevs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibdevs" />
 </p>
 
 <p>
