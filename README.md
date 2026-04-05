@@ -67,13 +67,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibdevs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibdevs" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibdevs&show_icons=true&locale=en&theme=tokyonight" alt="vaibdevs" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibdevs&theme=tokyonight" alt="vaibdevs" />
 </p>
